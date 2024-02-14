@@ -7,6 +7,7 @@ Here's a list of top 200 deep learning Github repositories sorted by the number 
 Trending deep learning Github repositories can be found [here](https://github.com/mbadry1/Trending-Deep-Learning).
 
 Date: 02-02-2020 compared to 09-01-2019
+New change date: 02/13/2024
 
 Note: This will be updated regularly.
 
